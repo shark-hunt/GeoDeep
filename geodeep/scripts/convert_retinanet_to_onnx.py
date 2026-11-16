@@ -93,4 +93,3 @@ bboxes, scores, classes = extract_bsc(res, config)
 
 draw_boxes(TEST_IMAGE, "out.tif", bboxes, scores)
 
-
